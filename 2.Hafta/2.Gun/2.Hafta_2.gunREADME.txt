@@ -5,4 +5,5 @@ CMD komut satırını yönetici olarak açıp aşağıdaki dosyaya giriş yapıy
 cd C:\Users\mehme\Documents\Arduino\libraries\Blynk\scripts
 2.Satıra da aşağıdaki komutu yazıp arduino hangi porta bağlıysa belirtiyoruz.
 blynk-ser.bat -c COM3
-Artık BLYNK uygulamsı üzerinden buton ile kontrolünü sağlayabiliriz
+Artık BLYNK uygulamsı üzerinden buton ile kontrolünü sağlayabiliriz.
+Mehmet Ali DAG
